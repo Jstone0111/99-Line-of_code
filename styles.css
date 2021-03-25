@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    color: gold;
+}
+
+.friend{
+    background-color: black;
+    color: white;
+}
+
+.friend > h3{
+    text-transform: uppercase;
+    color: gold;
+}
